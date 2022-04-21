@@ -2,3 +2,6 @@
 .ipynb_checkpoints/**
 
 year_prediction.csv
+covetype.csv
+3D_spatial_network.txt
+kc_house_data.csv
